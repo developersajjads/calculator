@@ -23,7 +23,7 @@ function calcMain(imode) {
     s += '<div style="font: 12px arial; font-weight: bold; color: #6600cc; text-align:left;">History:</div>';
     s += '<textarea  id="hist" value="ddd" style="width:98%; height: 120px; font: 14px Arial; border: 1px solid red; border-radius: 9px; background-color: #eeeeff; display: block; text-align: center;">';
     s += '</textarea>';
-    s += '<div id="copyrt" style="font: bold 10px arial; color: #6600cc; text-align:center;">&copy; 2018 MathsIsFun.com  Developersajjad.blogspot.com '</div>';
+    s += '<div id="copyrt" style="font: bold 10px arial; color: #6600cc; text-align:center;">&copy; 2022 Developersajjad.blogspot.com </div>';
     s += '</div>';
     document.write(s);
     hists = [];
